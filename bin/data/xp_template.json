@@ -5,79 +5,79 @@
   },
   "User": {
     "Name": {
-      "Color": "ffffff",
+      "Color": "ffffffff",
       "Show": true,
-      "FontSize": 40,
+      "FontSize": 50,
       "Pos": {
-        "X": 173,
+        "X": 130,
         "Y": 17
       }
     },
     "Icon": {
       "Show": true,
       "Pos": {
-        "X": 67,
-        "Y": 17
+        "X": 32,
+        "Y": 10
       },
       "Size": {
-        "X": 92,
-        "Y": 92
+        "X": 69,
+        "Y": 70
       }
     },
     "GlobalLevel": {
-      "Color": "ffffff",
+      "Color": "ffffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 45,
       "Pos": {
-        "X": 292,
-        "Y": 171
+        "X": 47,
+        "Y": 149
       }
     },
     "GuildLevel": {
-      "Color": "ffffff",
+      "Color": "ffffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 45,
       "Pos": {
-        "X": 292,
-        "Y": 267
+        "X": 47,
+        "Y": 297
       }
     },
     "GlobalRank": {
-      "Color": "ffffff",
+      "Color": "ffffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 30,
       "Pos": {
-        "X": 320,
-        "Y": 203
+        "X": 148,
+        "Y": 179
       }
     },
     "GuildRank": {
-      "Color": "ffffff",
+      "Color": "ffffffff",
       "Show": true,
-      "FontSize": 26,
+      "FontSize": 30,
       "Pos": {
-        "X": 323,
-        "Y": 298
+        "X": 148,
+        "Y": 326
       }
     },
     "TimeOnLevel": {
-      "Format": "{0}d",
+      "Format": "{0}d{1}h{2}m",
       "Global": {
-        "Color": "ffffff",
+        "Color": "ffffffff",
         "Show": true,
-        "FontSize": 26,
+        "FontSize": 20,
         "Pos": {
-          "X": 284,
-          "Y": 144
+          "X": 50,
+          "Y": 204
         }
       },
       "Guild": {
-        "Color": "ffffff",
+        "Color": "ffffffff",
         "Show": true,
-        "FontSize": 26,
+        "FontSize": 20,
         "Pos": {
-          "X": 285,
-          "Y": 358
+          "X": 50,
+          "Y": 351
         }
       }
     },
@@ -85,54 +85,54 @@
       "Bar": {
         "Show": true,
         "Global": {
-          "Color": "90A4B7",
+          "Color": "00000066",
           "PointA": {
-            "X": 28,
-            "Y": 235
+            "X": 321,
+            "Y": 104
           },
           "PointB": {
-            "X": 28,
-            "Y": 257
+            "X": 286,
+            "Y": 235
           },
-          "Length": 346,
+          "Length": 450,
           "Direction": 3
         },
         "Guild": {
-          "Color": "90A4B7",
+          "Color": "00000066",
           "PointA": {
-            "X": 28,
-            "Y": 330
+            "X": 282,
+            "Y": 248
           },
           "PointB": {
-            "X": 28,
-            "Y": 352
+            "X": 247,
+            "Y": 379
           },
-          "Length": 346,
+          "Length": 450,
           "Direction": 3
         }
       },
       "Global": {
-        "Color": "ffffff",
-        "Show": false,
-        "FontSize": 28,
+        "Color": "ffffffff",
+        "Show": true,
+        "FontSize": 50,
         "Pos": {
-          "X": 35,
-          "Y": 225
+          "X": 430,
+          "Y": 142
         }
       },
       "Guild": {
-        "Color": "ffffff",
-        "Show": false,
-        "FontSize": 28,
+        "Color": "ffffffff",
+        "Show": true,
+        "FontSize": 50,
         "Pos": {
-          "X": 35,
-          "Y": 321
+          "X": 400,
+          "Y": 282
         }
       },
       "Awarded": {
-        "Color": "ffffff",
-        "Show": false,
-        "FontSize": 0,
+        "Color": "ffffffff",
+        "Show": true,
+        "FontSize": 25,
         "Pos": {
           "X": 445,
           "Y": 347
@@ -144,21 +144,21 @@
     "Icon": {
       "Show": true,
       "Pos": {
-        "X": 196,
-        "Y": 67
+        "X": 722,
+        "Y": 25
       },
       "Size": {
-        "X": 21,
-        "Y": 21
+        "X": 45,
+        "Y": 45
       }
     },
     "Name": {
-      "Color": "ffffff",
+      "Color": "ffffffff",
       "Show": true,
       "FontSize": 35,
       "Pos": {
-        "X": 298,
-        "Y": 70
+        "X": 650,
+        "Y": 49
       }
     }
   }
